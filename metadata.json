@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Ceny Allegro",
+  "description": "Aplikacja pomaga obliczyć cenę sprzedaży produktu na Allegro, uwzględniając cenę zakupu, pożądany zysk oraz prowizję serwisu. Wprowadź swoje dane, aby otrzymać sugerowaną cenę końcową.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
